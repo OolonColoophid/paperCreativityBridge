@@ -1,0 +1,13 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\hypertarget{fig:clockface}{%
+\centering
+\includegraphics{conceptClockExample.jpg}
+\caption{An example of the conceptual clockface showing problem 1,
+\enquote{There are mice in my house} and cues representing near
+concepts. See Table 1.}\label{fig:clockface}
+}
+\end{figure*}
+\efloatseparator
+ 

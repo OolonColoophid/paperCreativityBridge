@@ -1,0 +1,62 @@
+A Bridge too Far: Conceptual Distance and Creative Ideation
+===========================================================
+
+This repository comprises the data,
+[Rmarkdown](https://rmarkdown.rstudio.com) source and final version(s)
+of my paper:
+
+Ian Hocking, & Vernon, David. (2017). A Bridge Too Far: Conceptual
+Distance and Creative Ideation. /Creativity: Theories, Research,
+Applications, 4/(2), *333--352*.
+<https://doi.org/10.1515/ctra-2017-0017>
+
+The paper takes an experimental psychological approach to the
+improvement of creative problem solving (CPS) using a novel technique.
+
+Abstract
+--------
+
+Previous research has shown changing perspectives to be important in
+problem finding, with viewpoint-based techniques like the 'six thinking
+hats' and the 'six honest serving men' improving performance (e.g.
+Vernon & Hocking, 2014). To date, however, evidence for similar
+techniques based on conceptually 'near' and 'far' cues, where conceptual
+distance is defined topologically in a semantic space, has shown mixed
+results. In a sample of 171 participants, we used two standard verbal
+problem scenarios together with six concepts that were either
+conceptually near or far from the problem scenario. Participants in the
+experimental group used the concepts when generating solutions; controls
+were given empty placeholders instead of concepts. Performance was
+measured for fluency, quality, originality and flexibility. With the
+exception of flexibility, participants did worse when using concepts of
+either type in comparison to controls. For flexibility, a borderline
+boost for far concepts was observed (η2 = .03, p = .06). We conclude
+that the cognitive load overhead introduced by our concept-cueing
+technique, or any other similar technique that attempts to shape the
+creative process, needs to be minimised through a variety of methods
+before we can better determine its usefulness and, thus, the role of
+conceptual distance in creative problem solving.
+
+Key Files
+=========
+
+  Name                      Description
+  ------------------------- --------------------------------------------------------------------------------
+  README.org                Org version of README.md
+  letterToEditor.markdown   Letter to the editor of the journal (including responses to revision requests)
+  rmarkdown/paperCtra.rmd   Rmarkdown version of the paper
+
+Licence
+=======
+
+> The non-commercial use of the article will be governed by the Creative
+> Commons Attribution-NonCommercial-NoDerivs license as currently
+> displayed on <http://creativecommons.org/licenses/by-nc-nd/3.0/>,
+> except that sections 2 through 8 below will apply in this respect and
+> prevail over all conflicting provisions of such license model. Without
+> prejudice to the foregoing, the author hereby grants the Journal Owner
+> the license for commercial use of the article (for U.S. government
+> employees: to the extent transferable) according to section 2 below,
+> and sections 4 through 9 below, throughout the world, in any form, in
+> any language, for the full term of copyright, effective upon
+> acceptance for publication.
