@@ -4,12 +4,13 @@ This repository comprises the data,
 [Rmarkdown](https://rmarkdown.rstudio.com) source and final version(s)
 of my paper:
 
-Ian Hocking, & Vernon, David. (2017). A Bridge Too Far: Conceptual
-Distance and Creative Ideation. Creativity: Theories, Research,
-Applications, 4/(2), 333–352. <https://doi.org/10.1515/ctra-2017-0017>
+> Ian Hocking, & Vernon, David. (2017). A Bridge Too Far: Conceptual
+> Distance and Creative Ideation. Creativity: Theories, Research,
+> Applications, 4/(2), 333–352. <https://doi.org/10.1515/ctra-2017-0017>
 
 The paper takes an experimental psychological approach to the
-improvement of creative problem solving (CPS) using a novel technique.
+improvement of creative problem solving (CPS) using a novel technique
+that involves 'near' and 'far' conceptual cues.
 
 ## Abstract
 

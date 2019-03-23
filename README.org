@@ -1,11 +1,12 @@
-
 * A Bridge too Far: Conceptual Distance and Creative Ideation
 
 This repository comprises the data, [[https://rmarkdown.rstudio.com][Rmarkdown]] source and final version(s) of my paper:
 
+#+BEGIN_QUOTE
 Ian Hocking, & Vernon, David. (2017). A Bridge Too Far: Conceptual Distance and Creative Ideation. Creativity: Theories, Research, Applications, 4/(2), 333–352. https://doi.org/10.1515/ctra-2017-0017
+#+END_QUOTE
 
-The paper takes an experimental psychological approach to the improvement of creative problem solving (CPS) using a novel technique.
+The paper takes an experimental psychological approach to the improvement of creative problem solving (CPS) using a novel technique that involves 'near' and 'far' conceptual cues.
 
 ** Abstract
 
@@ -24,3 +25,10 @@ Previous research has shown changing perspectives to be important in problem fin
 #+BEGIN_QUOTE
 The non-commercial use of the article will be governed by the Creative Commons Attribution-NonCommercial-NoDerivs license as currently displayed on http://creativecommons.org/licenses/by-nc-nd/3.0/, except that sections 2 through 8 below will apply in this respect and prevail over all conflicting provisions of such license model. Without prejudice to the foregoing, the author hereby grants the Journal Owner the license for commercial use of the article (for U.S. government employees: to the extent transferable) according to section 2 below, and sections 4 through 9 below, throughout the world, in any form, in any language, for the full term of copyright, effective upon acceptance for publication.
 #+END_QUOTE
+
+
+#+BEGIN_COMMENT
+To export this Org file to Github flavoured Markdown, use:
+
+> pandoc -t gfm README.org -o README.md
+#+END_COMMENT
