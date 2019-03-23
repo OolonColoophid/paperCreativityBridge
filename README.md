@@ -5,8 +5,8 @@ This repository comprises the data,
 of my paper:
 
 Ian Hocking, & Vernon, David. (2017). A Bridge Too Far: Conceptual
-Distance and Creative Ideation. /Creativity: Theories, Research,
-Applications, 4/(2), *333–352*. <https://doi.org/10.1515/ctra-2017-0017>
+Distance and Creative Ideation. Creativity: Theories, Research,
+Applications, 4/(2), 333–352. <https://doi.org/10.1515/ctra-2017-0017>
 
 The paper takes an experimental psychological approach to the
 improvement of creative problem solving (CPS) using a novel technique.
