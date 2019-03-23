@@ -1,5 +1,4 @@
-A Bridge too Far: Conceptual Distance and Creative Ideation
-===========================================================
+# A Bridge too Far: Conceptual Distance and Creative Ideation
 
 This repository comprises the data,
 [Rmarkdown](https://rmarkdown.rstudio.com) source and final version(s)
@@ -7,20 +6,18 @@ of my paper:
 
 Ian Hocking, & Vernon, David. (2017). A Bridge Too Far: Conceptual
 Distance and Creative Ideation. /Creativity: Theories, Research,
-Applications, 4/(2), *333--352*.
-<https://doi.org/10.1515/ctra-2017-0017>
+Applications, 4/(2), *333–352*. <https://doi.org/10.1515/ctra-2017-0017>
 
 The paper takes an experimental psychological approach to the
 improvement of creative problem solving (CPS) using a novel technique.
 
-Abstract
---------
+## Abstract
 
 Previous research has shown changing perspectives to be important in
-problem finding, with viewpoint-based techniques like the 'six thinking
-hats' and the 'six honest serving men' improving performance (e.g.
+problem finding, with viewpoint-based techniques like the ‘six thinking
+hats’ and the ‘six honest serving men’ improving performance (e.g.
 Vernon & Hocking, 2014). To date, however, evidence for similar
-techniques based on conceptually 'near' and 'far' cues, where conceptual
+techniques based on conceptually ‘near’ and ‘far’ cues, where conceptual
 distance is defined topologically in a semantic space, has shown mixed
 results. In a sample of 171 participants, we used two standard verbal
 problem scenarios together with six concepts that were either
@@ -35,19 +32,18 @@ that the cognitive load overhead introduced by our concept-cueing
 technique, or any other similar technique that attempts to shape the
 creative process, needs to be minimised through a variety of methods
 before we can better determine its usefulness and, thus, the role of
-conceptual distance in creative problem solving.
+conceptual distance in creative problem
+solving.
 
-Key Files
-=========
+# Key Files
 
-  Name                      Description
-  ------------------------- --------------------------------------------------------------------------------
-  README.org                Org version of README.md
-  letterToEditor.markdown   Letter to the editor of the journal (including responses to revision requests)
-  rmarkdown/paperCtra.rmd   Rmarkdown version of the paper
+| Name                    | Description                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| README.org              | Org version of README.md                                                       |
+| letterToEditor.markdown | Letter to the editor of the journal (including responses to revision requests) |
+| rmarkdown/paperCtra.rmd | Rmarkdown version of the paper                                                 |
 
-Licence
-=======
+# Licence
 
 > The non-commercial use of the article will be governed by the Creative
 > Commons Attribution-NonCommercial-NoDerivs license as currently
